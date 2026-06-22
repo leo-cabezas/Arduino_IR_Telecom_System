@@ -11,10 +11,9 @@
       <em>Figure 1: Maximum distance achieved by the telecom. system.</em>
     </td>
     <td align="center">
-      <img src="docs/images/serial_monitor_output.jpg" alt="serial_monitor_output" width="300"><br>
+      <img src="docs/images/serial_monitor_output.png" alt="serial_monitor_output" width="300"><br>
       <em>Figure 2: Serial monitor output for the receiver board (RX).</em>
     </td>
-  </tr>
 </table>
 
 Project summary here.
@@ -43,11 +42,11 @@ Project summary here.
   <tr>
     <td align="center">
       <img src="docs/images/setup_oscilloscope.jpg" alt="setup_oscilloscope" width="300"><br>
-      <em>Figure 7: Oscilloscope setup for the receiver board (RX).</em>
+      <em>Figure 7: Oscilloscope and power setup for the receiver board (RX).</em>
     </td>
     <td align="center">
       <img src="docs/images/setup_power_supply.jpg" alt="setup_power_supply" width="300"><br>
-      <em>Figure 8: Power supply setup for both boards. </em>
+      <em>Figure 8: Power supply setup for the transmitter board (TX). </em>
     </td>
   </tr>
 </table>
@@ -64,6 +63,12 @@ Project summary here.
 
 
 # How it works
+
+<figure align="center">
+  <img src="docs/images/oscilloscope_encoded_char.png" alt="oscilloscope_encoded_char" width="300"><br>
+  <figcaption><em>Figure 2: Example of Pulse Frequency Modulation (PFM) encoding for '@'.</em></figcaption>
+</figure>
+<br><br>
 
 Download the final report for this project [here](docs/files/EECS_541_Project1_Team1.pdf).
 
