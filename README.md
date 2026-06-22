@@ -65,8 +65,8 @@ Project summary here.
 # How it works
 
 <figure align="center">
-  <img src="docs/images/oscilloscope_encoded_char.png" alt="oscilloscope_encoded_char" width="300"><br>
-  <figcaption><em>Figure 2: Example of Pulse Frequency Modulation (PFM) encoding for '@'.</em></figcaption>
+  <img src="docs/images/oscilloscope_encoded_char.png" alt="oscilloscope_encoded_char" width="800"><br>
+  <figcaption><em>Figure 9: Example of Pulse Frequency Modulation (PFM) encoding for '@'.</em></figcaption>
 </figure>
 <br><br>
 
