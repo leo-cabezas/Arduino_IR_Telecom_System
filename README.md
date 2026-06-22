@@ -60,7 +60,7 @@ This short-range telecommunications system leverages Pulse Frequency Modulation 
 
 # Deployment instructions
 
-
+Using the Arduino IDE, open the corresponding .ino file and send it directly to the Arduino Nano of the transmitter / receiver.
 
 # How it works
 
