@@ -4,11 +4,18 @@
 - **Course:** EECS 541 (Computer Systems Design Lab I)
 - **Honors & Awards:** Winner of the "McNaughton Award" (**largest transmission distance**)
 
-<figure align="center">
-  <img src="docs/images/3m_distance_showcase.jpg" alt="3m_distance_showcase" width="500" />
-  <figcaption><em>Figure 1: Maximum distance achieved by the telecom. system.</em></figcaption>
-</figure>
-<br><br>
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/images/3m_distance_showcase.jpg" alt="3m_distance_showcase" width="300" />
+      <em>Figure 1: Maximum distance achieved by the telecom. system.</em>
+    </td>
+    <td align="center">
+      <img src="docs/images/serial_monitor_output.jpg" alt="serial_monitor_output" width="300"><br>
+      <em>Figure 2: Serial monitor output for the receiver board (RX).</em>
+    </td>
+  </tr>
+</table>
 
 Project summary here.
 
@@ -16,31 +23,31 @@ Project summary here.
   <tr>
     <td align="center">
       <img src="docs/images/receiver_board.jpg" alt="receiver_board" width="300"><br>
-      <em>Figure 2: Receiver board (RX) for the telecom. system.</em>
+      <em>Figure 3: Receiver board (RX) for the telecom. system.</em>
     </td>
     <td align="center">
       <img src="docs/images/transmitter_board.jpg" alt="transmitter_board" width="300"><br>
-      <em>Figure 3: Transmitter board (TX) for the telecom. system.</em>
+      <em>Figure 4: Transmitter board (TX) for the telecom. system.</em>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="docs/images/RX_ECD.png" alt="RX_ECD" width="300"><br>
-      <em>Figure 4: Receiver's electric circuit diagram.</em>
+      <em>Figure 5: Receiver's electric circuit diagram.</em>
     </td>
     <td align="center">
       <img src="docs/images/TX_ECD.png" alt="TX_ECD" width="300"><br>
-      <em>Figure 5: Transmitter's electric circuit diagram.</em>
+      <em>Figure 6: Transmitter's electric circuit diagram.</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/images/RX_ECD.png" alt="RX_ECD" width="300"><br>
-      <em>Figure 4: Receiver's electric circuit diagram.</em>
+      <img src="docs/images/setup_oscilloscope.jpg" alt="setup_oscilloscope" width="300"><br>
+      <em>Figure 7: Oscilloscope setup for the receiver board (RX).</em>
     </td>
     <td align="center">
-      <img src="docs/images/TX_ECD.png" alt="TX_ECD" width="300"><br>
-      <em>Figure 5: Transmitter's electric circuit diagram.</em>
+      <img src="docs/images/setup_power_supply.jpg" alt="setup_power_supply" width="300"><br>
+      <em>Figure 8: Power supply setup for both boards. </em>
     </td>
   </tr>
 </table>
