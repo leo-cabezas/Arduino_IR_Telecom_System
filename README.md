@@ -1,4 +1,4 @@
-# Short-range Infrared Telecommunications System
+# Short-range IR Telecommunications System
 
 - **Institution:** University of Kansas
 - **Course:** EECS 541 (Computer Systems Design Lab I)
