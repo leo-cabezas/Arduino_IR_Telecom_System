@@ -60,7 +60,7 @@ This short-range telecommunications system leverages Pulse Frequency Modulation 
 
 # Deployment instructions
 
-Using the Arduino IDE, open the corresponding .ino file and send it directly to the Arduino Nano of the transmitter / receiver.
+Using the [Arduino IDE](https://www.arduino.cc/en/software/), open the corresponding .ino file and send it directly to the Arduino Nano of the transmitter / receiver. To view messages receiver by the receiver board, open the Serial Monitor and select 250,000 baud for the bitrate.
 
 # How it works
 
