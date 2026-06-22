@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="docs/images/3m_distance_showcase.jpg" alt="3m_distance_showcase" width="300" /><br>
+      <img src="docs/images/3m_distance_showcase.jpg" alt="3m_distance_showcase" width="400" /><br>
       <em>Figure 1: Maximum distance achieved by the system.</em>
     </td>
     <td align="center">
