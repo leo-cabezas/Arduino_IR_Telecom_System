@@ -5,7 +5,7 @@
 - **Honors & Awards:** Winner of the "McNaughton Award" (**largest transmission distance**)
 
 <figure align="center">
-  <img src="docs/images/3m_distance_showcase" alt="3m_distance_showcase" width="500" />
+  <img src="docs/images/3m_distance_showcase.jpg" alt="3m_distance_showcase" width="500" />
   <figcaption><em>Figure 1: Maximum distance achieved by the telecom. system.</em></figcaption>
 </figure>
 <br><br>
