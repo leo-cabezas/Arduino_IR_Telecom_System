@@ -11,7 +11,7 @@
       <em>Figure 1: Maximum distance achieved by the system.</em>
     </td>
     <td align="center">
-      <img src="docs/images/serial_monitor_output.png" alt="serial_monitor_output" width="300"><br>
+      <img src="docs/images/serial_monitor_output.png" alt="serial_monitor_output" width="500"><br>
       <em>Figure 2: Serial monitor output for the receiver board (RX).</em>
     </td>
 </table>
