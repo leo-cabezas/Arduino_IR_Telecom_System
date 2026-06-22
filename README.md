@@ -16,7 +16,7 @@
     </td>
 </table>
 
-This short-range telecommunications system leverages Pulse Frequency Modulation (PFM) --- an encoding scheme where data is encoded by the time difference between subsequent pulses --- to transmit ASCII messages over the infrared spectrum (center frequency of 1.2KHz with a deviation of 30Hz). Characters are transmitted in individual packets which contain their binary encoding, start and stop bits, and 6 parity bits (3 per nibble). Error correction is applied to the starting and ending nibbles of the character using their associated parity bits. A maximum transmission distance of 3 meters was achieved, employing a single IR LED on the transmitter and two IR sensors on the receiver.
+This short-range telecommunications system leverages Pulse Frequency Modulation (PFM) (an encoding scheme where data is encoded by the time difference between subsequent pulses) to transmit ASCII messages over the infrared spectrum (center frequency of 1.2KHz with a deviation of 30Hz). Characters are transmitted in individual packets which contain their binary encoding, start and stop bits, and 6 parity bits (3 per nibble). Error correction is applied to the starting and ending nibbles of the character using their associated parity bits. A maximum transmission distance of 3 meters was achieved by employing a single IR LED on the transmitter and two IR sensors on the receiver, the largest achieved among all competing teams.
 
 <table>
   <tr>
